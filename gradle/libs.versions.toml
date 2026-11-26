@@ -9,7 +9,7 @@ activityCompose = "1.13.0"
 kotlin = "2.2.10"
 composeBom = "2026.02.01"
 serialization = "1.6.0"
-retrofir-serealizatin = "2.9.0"
+retrofit-serialization = "2.9.0"
 okhttp = "5.5.1"
 
 [libraries]
