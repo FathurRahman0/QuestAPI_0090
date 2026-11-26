@@ -1,7 +1,8 @@
-import com.example.mydatasiswa.R
-import com.example.mydatasiswa.uicontroller.route.DestinasiNavigasi
+package com.example.mydatasiswa.uicontroller.route
 
-object DestinasiHome : DestinasiNavigasi {
-    override val route = "home"
-    override val titleRes = R.string.app_name
+import com.example.mydatasiswa.R
+
+object DestinasiEntry : DestinasiNavigasi {
+    override val route = "item_entry"
+    override val titleRes = R.string.entry_siswa
 }
